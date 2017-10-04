@@ -31,10 +31,10 @@ public class ChangePassword extends AppCompatActivity {
 
             @Override
             public void onClick(View v) {
-                if(value.equals(oldPassword.getText().toString())){
+                if(value.equals(Crypto.base64Encode(Crypto.sha256(oldPassword.getText().toString())))){
                     SharedPreferences preferences1 = context.getSharedPreferences("myapp_pref",context.MODE_PRIVATE);
                     SharedPreferences.Editor editor = preferences1.edit();
-                    editor.putString("password", newPassword.getText().toString());
+                    editor.putString("password", Crypto.base64Encode(Crypto.sha256(newPassword.getText().toString())));
                     editor.commit();
 
                     Intent intent = new Intent(ChangePassword.this, MainActivity.class);

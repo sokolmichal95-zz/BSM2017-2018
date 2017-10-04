@@ -13,6 +13,8 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 
     private String passwordTemp;
+    private String hashedPassword;
+    private String base64Password;
 
     Context context;
 
@@ -31,14 +33,13 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 passwordTemp = password.getText().toString();
-
-                //hash passwordTemp and convert it to base64
-                //later compare password from xml with base64 of passwordTemp
+                hashedPassword = Crypto.sha256(passwordTemp);
+                base64Password = Crypto.base64Encode(hashedPassword);
 
                 SharedPreferences preferences = getApplicationContext().getSharedPreferences("myapp_pref",
                         getApplicationContext().MODE_PRIVATE);
                 String value = preferences.getString("password", "");
-                if (value.equals(passwordTemp))
+                if (value.equals(base64Password))
                 {
                     Intent intent = new Intent(MainActivity.this, Options.class);
                     startActivity(intent);
@@ -47,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
                 {
                     SharedPreferences preferences2 = context.getSharedPreferences("myapp_pref", Context.MODE_PRIVATE);
                     SharedPreferences.Editor editor = preferences2.edit();
-                    editor.putString("password", passwordTemp);
+                    editor.putString("password", base64Password);
                     editor.commit();
 
                     Intent intent = new Intent(MainActivity.this, NewMessage.class);
@@ -55,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
                 }
                 else
                 {
-                    Toast.makeText(getApplicationContext(), "Wrong", Toast.LENGTH_LONG).show();
+                    Toast.makeText(getApplicationContext(), "Wrong Password", Toast.LENGTH_LONG).show();
                 }
             }
         });
