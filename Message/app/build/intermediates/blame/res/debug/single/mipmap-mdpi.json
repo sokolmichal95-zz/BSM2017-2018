@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    }
+]

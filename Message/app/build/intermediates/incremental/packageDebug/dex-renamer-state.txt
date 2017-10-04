@@ -1,0 +1,7 @@
+#Wed Oct 04 19:17:12 CEST 2017
+base.0=/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e4f51c461e65fd4f043e7e4e0d41a25857300ee3
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e11e9951dc82395ee173602695de409ed29354da/classes.dex
+base.1=/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e11e9951dc82395ee173602695de409ed29354da
+file.0=/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e4f51c461e65fd4f043e7e4e0d41a25857300ee3/classes.dex

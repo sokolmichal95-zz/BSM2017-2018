@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/msokol/.android/build-cache/486c57b11ba8dbb6d01cdaac42c2b61f08d8ac44/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/msokol/.android/build-cache/486c57b11ba8dbb6d01cdaac42c2b61f08d8ac44/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/msokol/.android/build-cache/486c57b11ba8dbb6d01cdaac42c2b61f08d8ac44/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/msokol/.android/build-cache/486c57b11ba8dbb6d01cdaac42c2b61f08d8ac44/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
