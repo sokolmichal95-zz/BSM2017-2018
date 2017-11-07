@@ -42,6 +42,7 @@ public class MainActivity extends AppCompatActivity {
                 if (value.equals(base64Password))
                 {
                     Intent intent = new Intent(MainActivity.this, Options.class);
+                    intent.putExtra("aqwerty", passwordTemp);
                     startActivity(intent);
                 }
                 else if (value.equals(""))
@@ -52,6 +53,7 @@ public class MainActivity extends AppCompatActivity {
                     editor.commit();
 
                     Intent intent = new Intent(MainActivity.this, NewMessage.class);
+                    intent.putExtra("aqwerty", passwordTemp);
                     startActivity(intent);
                 }
                 else

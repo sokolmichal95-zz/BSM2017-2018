@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
-        "source": "/home/msokol/.android/build-cache/486c57b11ba8dbb6d01cdaac42c2b61f08d8ac44/output/res/drawable-v21/notification_action_background.xml"
+        "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\msokol\\.android\\build-cache\\13b6b761a55f8a0052693c2d6678c86c0e2061b8\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
-        "source": "/home/msokol/.android/build-cache/486c57b11ba8dbb6d01cdaac42c2b61f08d8ac44/output/res/drawable-v21/abc_edit_text_material.xml"
+        "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\msokol\\.android\\build-cache\\13b6b761a55f8a0052693c2d6678c86c0e2061b8\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
-        "merged": "/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/home/msokol/.android/build-cache/486c57b11ba8dbb6d01cdaac42c2b61f08d8ac44/output/res/drawable-v21/abc_btn_colored_material.xml"
+        "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\msokol\\.android\\build-cache\\13b6b761a55f8a0052693c2d6678c86c0e2061b8\\output\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
-        "merged": "/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
-        "source": "/home/msokol/.android/build-cache/486c57b11ba8dbb6d01cdaac42c2b61f08d8ac44/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+        "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\msokol\\.android\\build-cache\\13b6b761a55f8a0052693c2d6678c86c0e2061b8\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
     }
 ]

@@ -3,111 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/home/msokol/.android/build-cache/ee4d765fcc3c72853285e1907ab54cfbda65115d/output/jars/classes.jar"
+        jar="C:\Users\msokol\Source\Repos\BSM2017-2018\Message\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.2"
-        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
-        <dex dex="/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aa6333284c5641dacba9fa551857a14397e75821/classes.dex" />
+        sha1="4fd9fce6ee17d6544b930088a4e61e9ea7b33018">
+        <dex dex="C:\Users\msokol\Source\Repos\BSM2017-2018\Message\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fcebb12170fc33cc1cf9d3b3bbfae2c7dd738c8d\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="8c5327446b00f5299e1600dc565bda23b275eb97">
-        <dex dex="/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e4f51c461e65fd4f043e7e4e0d41a25857300ee3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/msokol/.android/build-cache/88270d48f1c45674788f62d5da4a78eef4511e91/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
-        <dex dex="/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4da9900569ac8cfd712419d3e550e1ff2ce0907d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/msokol/.android/build-cache/e4c6ae1494bcdd0fc947a60a5aba3b447347badf/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
-        <dex dex="/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e38b13fbc3a71778e256a2c105fc90258fa2c911/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/msokol/.android/build-cache/1cb05e4a81033967a31ae98c4a6945e59e13a9b7/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="952944218ecedea1554a513dec0c14d570642843">
-        <dex dex="/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fc43da606241186ac674a7ee07fc3e828468a4e0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/msokol/.android/build-cache/486c57b11ba8dbb6d01cdaac42c2b61f08d8ac44/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
-        <dex dex="/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d91204371b4d7e4e98c0870dff097eb6cec0c37e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/msokol/.android/build-cache/ed049da4116f84d76fab96017221142014dfcf9c/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac45c5123cf7825061565bbd39d564d8ebc2d2b3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/msokol/.android/build-cache/3bdec7aea0d03ccc18489f8d009a335e3d44c581/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="9935891f23923f39d002087085d9696568a9f657">
-        <dex dex="/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_19b6ac97cba15ea2fba37c608b82b279f1e868b0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/msokol/.android/build-cache/5a079371cc54acd4cc03ac228eb5da982ca8dcda/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
-        <dex dex="/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b18463429f9de8b16af3c3033be68812e936dc16/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="C:\Users\msokol\Source\Repos\BSM2017-2018\Message\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.2"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e11e9951dc82395ee173602695de409ed29354da/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/msokol/.android/build-cache/0f3c31d4e35015ec911f3f8bd841c29ba603fcf1/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb4f6e9aba8a49ac5938ec62696312244a27d7a9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/msokol/.android/build-cache/c2d9c4b03e3af09cb2724b87af203f131b247bd9/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
-        <dex dex="/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9a9a29da5c5938994f4374de132b042ccbbe7e30/classes.dex" />
+        <dex dex="C:\Users\msokol\Source\Repos\BSM2017-2018\Message\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_848813a04f1442892b00c398d4ce1af180307fbe\classes.dex" />
     </item>
 
 </items>

@@ -9,6 +9,9 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
+import java.security.GeneralSecurityException;
+import java.sql.SQLOutput;
+
 public class NewMessage extends AppCompatActivity {
 
     Context context;
@@ -21,12 +24,30 @@ public class NewMessage extends AppCompatActivity {
         Button saveButton = (Button) findViewById(R.id.saveMessageButton);
         final EditText addMessage = (EditText) findViewById(R.id.addMessageET);
 
+//        final String passwordTemp;
+//        Bundle extras = getIntent().getExtras();
+//        if(extras == null) {
+//            passwordTemp = null;
+//        } else {
+//            passwordTemp = extras.getString("aqwerty");
+//        }
+
         saveButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+
                 SharedPreferences preferences = context.getSharedPreferences("myapp_pref", Context.MODE_PRIVATE);
                 SharedPreferences.Editor editor = preferences.edit();
-                editor.putString("message", addMessage.getText().toString());
+                String encryptedMessage = "";
+                try {
+                    encryptedMessage = AESCrypt.encrypt(preferences.getString(
+                            "password",""
+                    ) ,addMessage.getText().toString());
+                } catch (GeneralSecurityException e) {
+                    e.printStackTrace();
+                }
+                System.out.println(encryptedMessage);
+                editor.putString("message", encryptedMessage);
                 editor.commit();
                 Intent intent = new Intent(NewMessage.this, Options.class);
                 startActivity(intent);

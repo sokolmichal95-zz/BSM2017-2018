@@ -18,6 +18,14 @@ public class Options extends AppCompatActivity {
 
         context = getApplicationContext();
 
+        /*final String passwordTemp;
+        Bundle extras = getIntent().getExtras();
+        if(extras == null) {
+            passwordTemp = null;
+        } else {
+            passwordTemp = extras.getString("aqwerty");
+        }*/
+
         Button showMessage = (Button) findViewById(R.id.showMessage);
         Button editMessage = (Button) findViewById(R.id.editMessage);
         Button changePassword = (Button) findViewById(R.id.changePassword);
@@ -26,6 +34,7 @@ public class Options extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(Options.this, ShowMessage.class);
+                //intent.putExtra("aqwerty", passwordTemp);
                 startActivity(intent);
             }
         });
@@ -34,6 +43,7 @@ public class Options extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(Options.this, NewMessage.class);
+                //intent.putExtra("aqwerty", passwordTemp);
                 startActivity(intent);
             }
         });

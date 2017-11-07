@@ -1,4 +1,4 @@
-#Wed Oct 04 19:08:10 CEST 2017
-base.0=/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
+#Tue Nov 07 17:12:08 CET 2017
+base.0=C\:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
 renamed.0=classes.dex
-file.0=/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex
+file.0=C\:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex

@@ -1,42 +1,42 @@
 [
     {
-        "merged": "/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/home/msokol/.android/build-cache/486c57b11ba8dbb6d01cdaac42c2b61f08d8ac44/output/res/anim/abc_fade_out.xml"
+        "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\msokol\\.android\\build-cache\\13b6b761a55f8a0052693c2d6678c86c0e2061b8\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/home/msokol/.android/build-cache/486c57b11ba8dbb6d01cdaac42c2b61f08d8ac44/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\msokol\\.android\\build-cache\\13b6b761a55f8a0052693c2d6678c86c0e2061b8\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/home/msokol/.android/build-cache/486c57b11ba8dbb6d01cdaac42c2b61f08d8ac44/output/res/anim/abc_popup_enter.xml"
+        "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\msokol\\.android\\build-cache\\13b6b761a55f8a0052693c2d6678c86c0e2061b8\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/home/msokol/.android/build-cache/486c57b11ba8dbb6d01cdaac42c2b61f08d8ac44/output/res/anim/abc_slide_in_top.xml"
+        "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\msokol\\.android\\build-cache\\13b6b761a55f8a0052693c2d6678c86c0e2061b8\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/home/msokol/.android/build-cache/486c57b11ba8dbb6d01cdaac42c2b61f08d8ac44/output/res/anim/abc_fade_in.xml"
+        "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\msokol\\.android\\build-cache\\13b6b761a55f8a0052693c2d6678c86c0e2061b8\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/home/msokol/.android/build-cache/486c57b11ba8dbb6d01cdaac42c2b61f08d8ac44/output/res/anim/abc_popup_exit.xml"
+        "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\msokol\\.android\\build-cache\\13b6b761a55f8a0052693c2d6678c86c0e2061b8\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/home/msokol/.android/build-cache/486c57b11ba8dbb6d01cdaac42c2b61f08d8ac44/output/res/anim/abc_slide_out_top.xml"
+        "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\msokol\\.android\\build-cache\\13b6b761a55f8a0052693c2d6678c86c0e2061b8\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/home/msokol/.android/build-cache/486c57b11ba8dbb6d01cdaac42c2b61f08d8ac44/output/res/anim/abc_slide_out_bottom.xml"
+        "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\msokol\\.android\\build-cache\\13b6b761a55f8a0052693c2d6678c86c0e2061b8\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/home/msokol/.android/build-cache/486c57b11ba8dbb6d01cdaac42c2b61f08d8ac44/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\msokol\\.android\\build-cache\\13b6b761a55f8a0052693c2d6678c86c0e2061b8\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/home/msokol/Documents/wmi.amu.edu.pl/BSM/BSM2017-2018/Message/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/home/msokol/.android/build-cache/486c57b11ba8dbb6d01cdaac42c2b61f08d8ac44/output/res/anim/abc_slide_in_bottom.xml"
+        "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\msokol\\.android\\build-cache\\13b6b761a55f8a0052693c2d6678c86c0e2061b8\\output\\res\\anim\\abc_slide_out_top.xml"
     }
 ]

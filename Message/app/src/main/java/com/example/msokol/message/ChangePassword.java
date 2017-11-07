@@ -10,6 +10,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
+import java.security.GeneralSecurityException;
+
 public class ChangePassword extends AppCompatActivity {
 
     Context context;
@@ -34,6 +36,18 @@ public class ChangePassword extends AppCompatActivity {
                 if(value.equals(Crypto.base64Encode(Crypto.sha256(oldPassword.getText().toString())))){
                     SharedPreferences preferences1 = context.getSharedPreferences("myapp_pref",context.MODE_PRIVATE);
                     SharedPreferences.Editor editor = preferences1.edit();
+                    String messageTemp = "";
+                    try {
+                        messageTemp = AESCrypt.decrypt(value, preferences1.getString("message", ""));
+                    } catch (GeneralSecurityException e) {
+                        e.printStackTrace();
+                    }
+                    try {
+                        editor.putString("message", AESCrypt.encrypt(Crypto.base64Encode(Crypto.sha256(newPassword.getText().toString())),
+                                messageTemp));
+                    } catch (GeneralSecurityException e) {
+                        e.printStackTrace();
+                    }
                     editor.putString("password", Crypto.base64Encode(Crypto.sha256(newPassword.getText().toString())));
                     editor.commit();
 

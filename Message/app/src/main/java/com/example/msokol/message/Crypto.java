@@ -1,16 +1,18 @@
 package com.example.msokol.message;
 
 import android.util.Base64;
+import android.util.Log;
 
 import java.io.UnsupportedEncodingException;
 import java.math.BigInteger;
 import java.nio.charset.Charset;
+import java.security.GeneralSecurityException;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
-/**
- * Created by msokol on 10/4/17.
- */
+import javax.crypto.Cipher;
+import javax.crypto.spec.IvParameterSpec;
+import javax.crypto.spec.SecretKeySpec;
 
 public class Crypto {
 
@@ -47,6 +49,12 @@ public class Crypto {
         } catch (UnsupportedEncodingException e) {
             e.printStackTrace();
         }
+        return "";
+    }
+
+    public static String messageEncode(String s){
+
+
         return "";
     }
 
