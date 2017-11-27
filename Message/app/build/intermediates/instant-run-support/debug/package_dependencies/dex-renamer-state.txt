@@ -1,4 +1,4 @@
-#Tue Nov 07 17:12:07 CET 2017
+#Mon Nov 27 11:12:17 CET 2017
 file.2=C\:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_98925f453e6161aa0d94f8c5d0c84f334f780da6\\classes.dex
 base.2=C\:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_98925f453e6161aa0d94f8c5d0c84f334f780da6
 file.1=C\:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_556d9d22562941434f38d812c929feabbe211e73\\classes.dex
@@ -7,18 +7,21 @@ file.0=C\:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\int
 base.0=C\:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_a7c20e2e739ee99bdc83bad79b1342d9930e80a7
 renamed.9=classes.dex
 renamed.8=classes3.dex
-renamed.7=classes10.dex
+renamed.7=classes11.dex
 renamed.6=classes8.dex
 renamed.5=classes7.dex
 renamed.4=classes6.dex
 renamed.3=classes2.dex
-renamed.2=classes11.dex
+renamed.2=classes12.dex
 renamed.1=classes5.dex
-renamed.0=classes9.dex
+renamed.0=classes10.dex
+renamed.12=classes9.dex
 renamed.11=classes4.dex
-renamed.10=classes12.dex
+renamed.10=classes13.dex
+base.12=C\:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_7a0ffe2d5f6e512323423df1ffdd1e143ab55ced
 base.11=C\:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_442f37ae84483303d6583728f9f0b0a9d7d8379e
 base.10=C\:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-26.0.0-alpha1_bc05756eae6f163a5701b7a34444e656272c9256
+file.12=C\:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_7a0ffe2d5f6e512323423df1ffdd1e143ab55ced\\classes.dex
 file.11=C\:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_442f37ae84483303d6583728f9f0b0a9d7d8379e\\classes.dex
 file.10=C\:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-26.0.0-alpha1_bc05756eae6f163a5701b7a34444e656272c9256\\classes.dex
 file.9=C\:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_067e01514f302fedfff3c9e1cb9dedc4241c6826\\classes.dex

@@ -1,9 +1,5 @@
 [
     {
-        "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\msokol\\.android\\build-cache\\13b6b761a55f8a0052693c2d6678c86c0e2061b8\\output\\res\\drawable\\abc_btn_colored_material.xml"
-    },
-    {
         "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
         "source": "C:\\Users\\msokol\\.android\\build-cache\\13b6b761a55f8a0052693c2d6678c86c0e2061b8\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
@@ -60,6 +56,10 @@
         "source": "C:\\Users\\msokol\\.android\\build-cache\\13b6b761a55f8a0052693c2d6678c86c0e2061b8\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
+        "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fingerprint_error.xml",
+        "source": "C:\\Users\\msokol\\.android\\build-cache\\d0d44617f3688546301b8f14f9ce5cec63c9392d\\output\\res\\drawable\\fingerprint_error.xml"
+    },
+    {
         "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
         "source": "C:\\Users\\msokol\\.android\\build-cache\\13b6b761a55f8a0052693c2d6678c86c0e2061b8\\output\\res\\drawable\\abc_vector_test.xml"
     },
@@ -92,8 +92,8 @@
         "source": "C:\\Users\\msokol\\.android\\build-cache\\13b6b761a55f8a0052693c2d6678c86c0e2061b8\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\msokol\\.android\\build-cache\\13b6b761a55f8a0052693c2d6678c86c0e2061b8\\output\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle.xml",
+        "source": "C:\\Users\\msokol\\.android\\build-cache\\d0d44617f3688546301b8f14f9ce5cec63c9392d\\output\\res\\drawable\\circle.xml"
     },
     {
         "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
@@ -102,6 +102,10 @@
     {
         "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
         "source": "C:\\Users\\msokol\\.android\\build-cache\\13b6b761a55f8a0052693c2d6678c86c0e2061b8\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fingerprint_success.xml",
+        "source": "C:\\Users\\msokol\\.android\\build-cache\\d0d44617f3688546301b8f14f9ce5cec63c9392d\\output\\res\\drawable\\fingerprint_success.xml"
     },
     {
         "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
@@ -134,6 +138,10 @@
     {
         "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
         "source": "C:\\Users\\msokol\\.android\\build-cache\\13b6b761a55f8a0052693c2d6678c86c0e2061b8\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fingerprint.xml",
+        "source": "C:\\Users\\msokol\\.android\\build-cache\\d0d44617f3688546301b8f14f9ce5cec63c9392d\\output\\res\\drawable\\fingerprint.xml"
     },
     {
         "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",

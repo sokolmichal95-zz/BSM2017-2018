@@ -123,6 +123,10 @@
     <color name="dim_foreground_disabled_material_light">#80323232</color>
     <color name="dim_foreground_material_dark">#ffbebebe</color>
     <color name="dim_foreground_material_light">#ff323232</color>
+    <color name="fingerprint_auth_failed">#F4511E</color>
+    <color name="fingerprint_auth_scanning">#42000000</color>
+    <color name="fingerprint_auth_success">#009688</color>
+    <color name="fingerprint_circle">#607D8B</color>
     <color name="foreground_material_dark">@android:color/white</color>
     <color name="foreground_material_light">@android:color/black</color>
     <color name="highlighted_text_material_dark">#6680cbc4</color>
@@ -440,6 +444,14 @@
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="app_name">Message</string>
+    <string name="fingerprint_cancel_button">Cancel</string>
+    <string name="fingerprint_icon_description">Fingerprint icon</string>
+    <string name="fingerprint_state_failure">Fingerprint not recognized.\nTry again.</string>
+    <string name="fingerprint_state_scanning">Touch sensor</string>
+    <string name="fingerprint_state_success">Fingerprint recognized</string>
+    <string name="password_cancel">Cancel</string>
+    <string name="password_confirm">Confirm</string>
+    <string name="password_incorrect">Incorrect Password</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
@@ -1462,6 +1474,46 @@
         <item name="android:minWidth">56dp</item>
         <item name="android:scaleType">center</item>
     </style>
+    <style name="BottomBottomAnimation">
+        <item name="android:windowEnterAnimation">@anim/enter_from_bottom</item>
+        <item name="android:windowExitAnimation">@anim/exit_to_bottom</item>
+    </style>
+    <style name="BottomTopAnimation">
+        <item name="android:windowEnterAnimation">@anim/enter_from_bottom</item>
+        <item name="android:windowExitAnimation">@anim/exit_to_top</item>
+    </style>
+    <style name="EnterFromBottomAnimation">
+        <item name="android:windowEnterAnimation">@anim/enter_from_bottom</item>
+    </style>
+    <style name="EnterFromLeftAnimation">
+        <item name="android:windowEnterAnimation">@anim/enter_from_left</item>
+    </style>
+    <style name="EnterFromRightAnimation">
+        <item name="android:windowEnterAnimation">@anim/enter_from_right</item>
+    </style>
+    <style name="EnterFromTopAnimation">
+        <item name="android:windowEnterAnimation">@anim/enter_from_top</item>
+    </style>
+    <style name="ExitToBottomAnimation">
+        <item name="android:windowExitAnimation">@anim/exit_to_bottom</item>
+    </style>
+    <style name="ExitToLeftAnimation">
+        <item name="android:windowExitAnimation">@anim/exit_to_left</item>
+    </style>
+    <style name="ExitToRightAnimation">
+        <item name="android:windowExitAnimation">@anim/exit_to_right</item>
+    </style>
+    <style name="ExitToTopAnimation">
+        <item name="android:windowExitAnimation">@anim/exit_to_top</item>
+    </style>
+    <style name="LeftLeftAnimation">
+        <item name="android:windowEnterAnimation">@anim/enter_from_left</item>
+        <item name="android:windowExitAnimation">@anim/exit_to_left</item>
+    </style>
+    <style name="LeftRightAnimation">
+        <item name="android:windowEnterAnimation">@anim/enter_from_left</item>
+        <item name="android:windowExitAnimation">@anim/exit_to_right</item>
+    </style>
     <style name="Platform.AppCompat" parent="android:Theme">
         <item name="android:windowNoTitle">true</item>
 
@@ -1568,6 +1620,14 @@
         <item name="android:dropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
     </style>
     <style name="Platform.Widget.AppCompat.Spinner" parent="android:Widget.Spinner"/>
+    <style name="RightLeftAnimation">
+        <item name="android:windowEnterAnimation">@anim/enter_from_right</item>
+        <item name="android:windowExitAnimation">@anim/exit_to_left</item>
+    </style>
+    <style name="RightRightAnimation">
+        <item name="android:windowEnterAnimation">@anim/enter_from_right</item>
+        <item name="android:windowExitAnimation">@anim/exit_to_right</item>
+    </style>
     <style name="RtlOverlay.DialogWindowTitle.AppCompat" parent="Base.DialogWindowTitle.AppCompat">
     </style>
     <style name="RtlOverlay.Widget.AppCompat.ActionBar.TitleItem" parent="android:Widget">
@@ -1738,6 +1798,14 @@
     <style name="ThemeOverlay.AppCompat.Dialog" parent="Base.ThemeOverlay.AppCompat.Dialog"/>
     <style name="ThemeOverlay.AppCompat.Dialog.Alert" parent="Base.ThemeOverlay.AppCompat.Dialog.Alert"/>
     <style name="ThemeOverlay.AppCompat.Light" parent="Base.ThemeOverlay.AppCompat.Light"/>
+    <style name="TopBottomAnimation">
+        <item name="android:windowEnterAnimation">@anim/enter_from_top</item>
+        <item name="android:windowExitAnimation">@anim/exit_to_bottom</item>
+    </style>
+    <style name="TopTopAnimation">
+        <item name="android:windowEnterAnimation">@anim/enter_from_top</item>
+        <item name="android:windowExitAnimation">@anim/exit_to_top</item>
+    </style>
     <style name="Widget.AppCompat.ActionBar" parent="Base.Widget.AppCompat.ActionBar">
     </style>
     <style name="Widget.AppCompat.ActionBar.Solid" parent="Base.Widget.AppCompat.ActionBar.Solid">

@@ -19,6 +19,14 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Partager avec"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Partager avec %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Réduire"</string>
+    <string name="fingerprint_cancel_button">Annuler</string>
+    <string name="fingerprint_icon_description">Icône empreinte</string>
+    <string name="fingerprint_state_failure">Empreinte non reconnue.\nRéessayez.</string>
+    <string name="fingerprint_state_scanning">Touchez le capteur</string>
+    <string name="fingerprint_state_success">Empreinte reconnue</string>
+    <string name="password_cancel">Annuler</string>
+    <string name="password_confirm">Confirmer</string>
+    <string name="password_incorrect">Mot de passe incorrect</string>
     <string msgid="146198913615257606" name="search_menu_title">"Rechercher"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
 </resources>

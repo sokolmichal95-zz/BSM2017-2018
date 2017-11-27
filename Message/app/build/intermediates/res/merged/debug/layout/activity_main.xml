@@ -20,8 +20,18 @@
         android:id="@+id/passwordConfirmation"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/password"
         android:layout_below="@+id/password"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="31dp"
+        android:layout_marginTop="30dp"
         android:text="Log In" />
+
+    <Button
+        android:id="@+id/fingerprintLogin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/password"
+        android:layout_alignTop="@+id/passwordConfirmation"
+        android:text="Finger" />
+
+
 </RelativeLayout>

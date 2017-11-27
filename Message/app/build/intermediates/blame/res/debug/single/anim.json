@@ -1,11 +1,23 @@
 [
     {
+        "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\anim\\enter_from_top.xml",
+        "source": "C:\\Users\\msokol\\.android\\build-cache\\d0d44617f3688546301b8f14f9ce5cec63c9392d\\output\\res\\anim\\enter_from_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\anim\\enter_from_right.xml",
+        "source": "C:\\Users\\msokol\\.android\\build-cache\\d0d44617f3688546301b8f14f9ce5cec63c9392d\\output\\res\\anim\\enter_from_right.xml"
+    },
+    {
         "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
         "source": "C:\\Users\\msokol\\.android\\build-cache\\13b6b761a55f8a0052693c2d6678c86c0e2061b8\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
         "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
         "source": "C:\\Users\\msokol\\.android\\build-cache\\13b6b761a55f8a0052693c2d6678c86c0e2061b8\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\anim\\exit_to_bottom.xml",
+        "source": "C:\\Users\\msokol\\.android\\build-cache\\d0d44617f3688546301b8f14f9ce5cec63c9392d\\output\\res\\anim\\exit_to_bottom.xml"
     },
     {
         "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
@@ -20,6 +32,10 @@
         "source": "C:\\Users\\msokol\\.android\\build-cache\\13b6b761a55f8a0052693c2d6678c86c0e2061b8\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
+        "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\anim\\exit_to_top.xml",
+        "source": "C:\\Users\\msokol\\.android\\build-cache\\d0d44617f3688546301b8f14f9ce5cec63c9392d\\output\\res\\anim\\exit_to_top.xml"
+    },
+    {
         "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
         "source": "C:\\Users\\msokol\\.android\\build-cache\\13b6b761a55f8a0052693c2d6678c86c0e2061b8\\output\\res\\anim\\abc_popup_exit.xml"
     },
@@ -28,8 +44,24 @@
         "source": "C:\\Users\\msokol\\.android\\build-cache\\13b6b761a55f8a0052693c2d6678c86c0e2061b8\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
+        "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\anim\\enter_from_left.xml",
+        "source": "C:\\Users\\msokol\\.android\\build-cache\\d0d44617f3688546301b8f14f9ce5cec63c9392d\\output\\res\\anim\\enter_from_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\anim\\exit_to_left.xml",
+        "source": "C:\\Users\\msokol\\.android\\build-cache\\d0d44617f3688546301b8f14f9ce5cec63c9392d\\output\\res\\anim\\exit_to_left.xml"
+    },
+    {
         "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
         "source": "C:\\Users\\msokol\\.android\\build-cache\\13b6b761a55f8a0052693c2d6678c86c0e2061b8\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\anim\\enter_from_bottom.xml",
+        "source": "C:\\Users\\msokol\\.android\\build-cache\\d0d44617f3688546301b8f14f9ce5cec63c9392d\\output\\res\\anim\\enter_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\anim\\exit_to_right.xml",
+        "source": "C:\\Users\\msokol\\.android\\build-cache\\d0d44617f3688546301b8f14f9ce5cec63c9392d\\output\\res\\anim\\exit_to_right.xml"
     },
     {
         "merged": "C:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",

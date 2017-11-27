@@ -5,8 +5,10 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="19"
+        android:minSdkVersion="23"
         android:targetSdkVersion="26" />
+
+    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
 
     <meta-data
         android:name="android.support.VERSION"

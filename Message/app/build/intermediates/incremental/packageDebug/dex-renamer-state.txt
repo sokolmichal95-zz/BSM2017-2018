@@ -1,4 +1,4 @@
-#Tue Nov 07 17:40:49 CET 2017
+#Mon Nov 27 11:15:11 CET 2017
 base.0=C\:\\Users\\msokol\\Source\\Repos\\BSM2017-2018\\Message\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_848813a04f1442892b00c398d4ce1af180307fbe
 renamed.1=classes.dex
 renamed.0=classes2.dex
